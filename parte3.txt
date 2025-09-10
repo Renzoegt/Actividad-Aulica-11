@@ -1,0 +1,26 @@
+Parte 3 – Reflexión personal
+
+¿Qué diferencias notaron en la experiencia de usuario entre ambos diseños?
+
+    Lo principal que note es como a pesar del limitado contenido de la pagina, la experiencia del usuario se buscaba
+    optimizar de la mejor manera posible dependiendo de su dispositivo, eligiendo por ejemplo un display en columnas
+    en vez de uno en filas para un dispositivo móvil que tendria dificultad para mostrar toda esa información. 
+    Por otro lado, y mas centrado en el primer enfoque, me resulto practicamente igual la experiencia entre distintos 
+    dispositivos con el primer enfoque, dado que unicamente cambiabamos un color, y eso no llega realmente a ser un 
+    factor muy influyente. Sin embargo, veo su utilidad si tenemos estilos que no funcionan muy bien en un canvas muy
+    pequeño
+
+¿Qué ventajas y desventajas vieron en cada enfoque?
+
+    A nivel ventajas principalmente el hecho del aumento de la satisfacción del usuario a la hora de utilizar nuestra
+    página. Sin embargo, tambien esta el hecho de que la labor de tener que armar un css distinto para cada dispositivo
+    que quiera conectarse a nuestra pagina puede en gran medida afectar nuestro tiempo de desarrollo, ademas de afectar
+    la legibilidad del código si no somos cuidadosos de donde lo colocamos. Esto aplica a ambos enfoques.
+
+
+¿En qué casos reales aplicarían uno u otro?
+
+    El primero lo aplicaría en una página en la que busco por sobre todo tener un estilo artistico bien definido para
+    cada uno de los públicos que van a visitar mi página, y tengo el tiempo y recursos para darme el lujo de estilizar 
+    cada color y tamaño de fuente. Por otro lado el enfoque con flexbox me parece mucho mas necesario de aplicar, dado
+    que afecta directamente a la funcionalidad de la pagina a la hora de transmitir su informacion.

@@ -1,0 +1,19 @@
+body { 
+    margin: 0; 
+    font-family: sans-serif; 
+}
+.caja {
+background: lightseagreen;
+padding: 5%;
+font-size: 2vw; /* escala según el ancho de la ventana */
+}
+.contenedor {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 1200px) {
+    .contenedor {
+        flex-direction: row;
+    }
+}
